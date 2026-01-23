@@ -1,20 +1,19 @@
 # Bonjour, je suis Jukaële 👋
 
-Je suis développeuse en formation en Haïti, passionnée par l'apprentissage continu et l'open source.  
-Je travaille principalement sur **smartphone** et je me concentre sur **la documentation claire et accessible aux débutants**, ainsi que sur les contributions open source.
+Je suis développeuse en formation en Haïti. J’aime apprendre, comprendre les bases, et surtout les expliquer simplement pour aider d’autres débutants dans l’open source.
 
 
 
-## Objectifs
+## Ce sur quoi je travaille actuellement
 
-- Approfondir ma maîtrise de **Git, GitHub, Termux et Markdown**  
-- Contribuer à des **projets open source**  
-- Créer de **petits projets utiles pour l’apprentissage**  
-- Partager mes apprentissages à travers des **dépôts clairs et bien documentés**
+- Mieux maîtriser **Git, GitHub, Termux et Markdown**  
+- Contribuer à l’open source, pas à pas  
+- Créer de petits projets pour apprendre  
+- Rédiger une documentation claire et facile à comprendre
 
 
 
-## Compétences que je maîtrise
+### Ce que je maîtrise
 
 - **Git / GitHub**  
 - **Termux**  
@@ -22,23 +21,23 @@ Je travaille principalement sur **smartphone** et je me concentre sur **la docum
 
 
 
-## Ce que je peux apporter
+### Comment je contribue
 
-- Documentation **accessible aux débutants** (README, guides, tutoriels)  
-- Documentation **Markdown**  
-- Petites améliorations de documentation existante  
+- Documentation **simple et accessible** (README, guides, tutoriels)  
+- Amélioration de documentation existante  
 - Explications claires pour les nouveaux contributeurs
 
 
 
-## Projet en cours
+### Projet mis en avant
 
-- **Outreachy-documentation** – Notes personnelles et guides accessibles sur Git, Markdown et Termux.  
-[Voir sur GitHub](https://github.com/Juka004/Outreachy-documentation)
+- **Outreachy-documentation**  
+  Guides et notes pour débutants sur Git, Markdown et Termux.  
+   1. [Voir le dépôt](https://github.com/Juka004/Outreachy-documentation)
 
----
 
-## Me contacter
 
-- **Email:** jnlouisjukaele@gmail.com  
-- **GitHub:** [Juka004](https://github.com/Juka004)
+### Me contacter
+
+- **Email :** jnlouisjukaele@gmail.com  
+- **GitHub :** [Juka004](https://github.com/Juka004)
