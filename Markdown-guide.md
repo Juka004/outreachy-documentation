@@ -468,8 +468,7 @@ Here is the English translation of *Page 8 — Best Practices and Tips for Clear
 ###  Tips for Clear and Professional Documentation*
 
 
-
-18.  **Write Clearly**
+**Write Clearly**
 
 - Use simple and direct language.  
 - Avoid unnecessary jargon, or explain it.  
@@ -477,8 +476,7 @@ Here is the English translation of *Page 8 — Best Practices and Tips for Clear
 - Be consistent in style (e.g., capitalization, punctuation).
 
 
-
-19.  **Organize Your Documentation**
+ **Organize Your Documentation**
 
 - Break the content into logical sections.  
 - Use headings and subheadings (H1, H2, H3).  
@@ -487,39 +485,35 @@ Here is the English translation of *Page 8 — Best Practices and Tips for Clear
 
 
 
-20. **Use Concrete Examples**
+**Use Concrete Examples**
 
 - Illustrate each concept with an example.  
 - Show the expected result after an action.  
 - Explain common mistakes.
 
 
-
-21.  **Provide Step-by-Step Instructions**
+ **Provide Step-by-Step Instructions**
 
 - List steps in chronological order.  
 - Be precise (e.g., "type this command").  
 - Mention prerequisites and dependencies.
 
 
-
-22. **Test and Maintain Documentation**
+ **Test and Maintain Documentation**
 
 - Ensure commands actually work.  
 - Update the docs if the project evolves.  
 - Ask for user feedback.
 
 
-
-23. **Use Markdown Tools Wisely**
+ **Use Markdown Tools Wisely**
 
 - Polish formatting (bold, italic).  
 - Use tables to organize information.
 - Add useful links (to other docs, websites).
 
 
-
-24. **Track progress with a changelog**
+ **Track progress with a changelog**
 
 - Document versions and changes.  
 - Add a `CHANGELOG.md` file.
@@ -529,21 +523,18 @@ Here is the English translation of *Page 8 — Best Practices and Tips for Clear
 ### Managing Contributions in Documentation
 
 
-
-25. **Introduction to Collaboration on GitHub**
+ **Introduction to Collaboration on GitHub**
 
 GitHub is the most widely used platform for managing open-source projects. It enables multiple people to collaborate efficiently on code or documentation.
 
 
-
-26. **Fork, Branches, and Pull Requests**
+ **Fork, Branches, and Pull Requests**
 
 - *Fork*: Copy a project to work on it without affecting the original.  
 - *Branches*: Create parallel versions to isolate changes.  
 - *Pull Request (PR)*: Propose changes to be merged into the main project.
 
-
-27. **Typical Process for Contributing to Documentation**
+ **Typical Process for Contributing to Documentation**
 
 1. *Fork* the project.  
 2. *Clone* it to your local machine.  
@@ -554,8 +545,7 @@ GitHub is the most widely used platform for managing open-source projects. It en
 7. Open a *pull request* on the original repository.
 
 
-
-28. **Best Practices for Contributions**
+ **Best Practices for Contributions**
 
 - Make *small and clear commits*.  
 - Follow *branch naming conventions*.
@@ -563,16 +553,14 @@ GitHub is the most widely used platform for managing open-source projects. It en
 - Resolve conflicts manually before continuing.
 
 
-
-30. **Role of Reviewers**
+**Role of Reviewers**
 
 - Check for quality, consistency, and accuracy.  
 - May request edits.  
 - Approve and merge PRs.
 
 
-
-31. **Keeping Documentation Up-to-Date**
+ **Keeping Documentation Up-to-Date**
 
 - Regularly check that the docs match the code.  
 - Add examples when needed.  
@@ -580,7 +568,7 @@ GitHub is the most widely used platform for managing open-source projects. It en
 
 ##  Summary and Resources for Further Learning
 
-32. **Summary of This Markdown Tutorial**
+ **Summary of This Markdown Tutorial**
 
 ***We covered:***
 
@@ -591,15 +579,13 @@ GitHub is the most widely used platform for managing open-source projects. It en
 - Collaboration on GitHub: forking, branching, pull requests, conflict resolution  
 
 
-
-33. **Why Learn Markdown?**
+ **Why Learn Markdown?**
 
 - Easy to learn, perfect for writing docs and notes  
 - Compatible with GitHub and many other platforms  
 - Improves clarity and presentation of technical documents  
 
-
-34. **Tips to Improve**
+ **Tips to Improve**
 
 - Practice regularly: create your own Markdown documents  
 - Contribute to open-source projects to apply your skills  
@@ -607,8 +593,7 @@ GitHub is the most widely used platform for managing open-source projects. It en
 - Try Markdown editors with preview (e.g., Typora, Markor, etc.)  
 
 
-
-35. **Useful Resources**
+ **Useful Resources**
 
 - *Official Markdown Documentation*: https://daringfireball.net/projects/markdown/  
 - *GitHub Flavored Markdown*: https://github.github.com/gfm/  
@@ -618,10 +603,9 @@ GitHub is the most widely used platform for managing open-source projects. It en
 - *Editing Tools*: Typora, Markor (Android), Visual Studio Code (with Markdown extensions)  
 
 
+**Going Further**
 
-36. **Going Further**
-
-- Learn to use Markdown with static site generators (Jekyll, Hugo)  
-- Discover how to integrate Markdown into content management systems  
-- Explore technical writing: structure, clarity, target audience  
+- Learn to use Markdown with static site generators (Jekyll, Hugo).  
+- Discover how to integrate Markdown into content management systems.  
+- Explore technical writing: structure, clarity, target audience.  
 
