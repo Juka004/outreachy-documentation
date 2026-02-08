@@ -1,43 +1,44 @@
 # Outreachy Documentation
 
-Ce dépôt contient des guides que j’ai créés dans le cadre de mon apprentissage de l’open source et de ma préparation à Outreachy.  
-Il fournit des ressources claires sur des outils essentiels comme Git, Markdown et Termux, et reflète mon parcours personnel dans l’apprentissage de ces technologies.
+This repository contains guides I created as part of my journey in open source and my preparation for Outreachy.  
+It provides clear resources on essential tools like Git, Markdown, and Termux, reflecting my personal learning experience.
 
-### Guides disponibles 
+### Available Guides
 
  **Git Guide**  
 [Git-guide.md](Git-guide.md)  
-Une introduction à Git : commandes de base, commits, branches et bonnes pratiques.  
-*C’est le guide que j’utilise régulièrement pour pratiquer et comprendre Git.*
+An introduction to Git: basic commands, commits, branches, and best practices.  
+*This is the guide I use regularly to practice and understand Git.*
 
- **Markdown Guide**  
+**Markdown Guide**  
 [Markdown-guide.md](Markdown-guide.md)  
-Guide pour apprendre Markdown et rédiger des README ou de la documentation lisible sur GitHub.  
-*J’ai écrit ce guide pour partager ce que j’ai appris sur la rédaction claire et la présentation de projets.*
+A simple guide to learn Markdown and write readable README files or documentation on GitHub.  
+*I wrote this guide to share what I’ve learned about clear documentation and project presentation.*
 
  **Termux Guide**  
 [Termux-guide.md](Termux-guide.md)  
-Guide pour débutants expliquant comment installer et utiliser Termux sur Android, avec les commandes de base et des exemples pratiques.  
-*Termux est mon premier pas pour coder directement sur mon téléphone, et je voulais le documenter pour aider d’autres débutants.*
+A beginner-friendly guide explaining how to install and use Termux on Android, with basic commands and practical examples.  
+*Termux is my first step to coding directly on my phone, and I wanted to document it to help other beginners.*
 
 ---
 
-**Objectif du dépôt :**  
-- Pratiquer la rédaction de documentation technique  
-- Comprendre et utiliser Git et GitHub  
-- Se préparer à contribuer à des projets open source  
-- Partager des ressources utiles pour les débutants
+**Repository Objective:**  
+- Practice writing technical documentation  
+- Learn and use Git and GitHub  
+- Prepare for contributing to open source projects  
+- Share useful resources for beginners
 
-**Pour qui ?**  
-- Débutants en informatique ou open source  
-- Personnes apprenant Git et GitHub  
-- Futurs candidats à Outreachy  
+**Who is it for?**  
+- Beginners in IT or open source  
+- People learning Git and GitHub  
+- Future Outreachy applicants  
 
-**Outils utilisés :** Git, GitHub, Markdown, Termux (Android)
+**Tools used:** Git, GitHub, Markdown, Termux (Android)
 
-**Statut :**  
-Dépôt en cours d’apprentissage et d’amélioration continue.  
-*Je suis toujours en train d’apprendre et d’améliorer ces guides, et vos suggestions sont les bienvenues !*
+**Status:**  
+This repository is a work in progress and continuously improving.  
+*I’m always learning and updating these guides, and suggestions are very welcome!*
 
-**Auteur :** Jukaële Jn Louis
+**Author:** Jukaële Jn Louis
+
 
